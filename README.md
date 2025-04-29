@@ -7,6 +7,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vsthakur101/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/vsthakur101/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vsthakur101/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vsthakur101/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/vsthakur101/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
