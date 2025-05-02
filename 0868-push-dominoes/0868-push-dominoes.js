@@ -3,42 +3,40 @@
  * @return {string}
  */
 var pushDominoes = function (dominoes) {
-    const n = dominoes.length;
-    const forces = new Array(n).fill(0);
+    const len = dominoes.length;
+    let l = -1;
+    let head = 'L';
+    let ans = '';
 
-    let force = 0;
-    // Left to right
-    for (let i = 0; i < n; i++) {
-        if (dominoes[i] === 'R') {
-            force = n;
-        } else if (dominoes[i] === 'L') {
-            force = 0;
+    for (let i = 0; i <= len; i++) {
+        const c = dominoes[i] || 'R';
+
+        if (c === '.') {
+            if (l === -1) l = i;
         } else {
-            force = Math.max(force - 1, 0);
+            if (l !== -1) {
+                const r = i - 1;
+                const count = r - l + 1;
+
+                if (head === 'L' && c === 'L') {
+                    ans += 'L'.repeat(count);
+                } else if (head === 'R' && c === 'R') {
+                    ans += 'R'.repeat(count);
+                } else if (head === 'L' && c === 'R') {
+                    ans += '.'.repeat(count);
+                } else {
+                    const half = Math.floor(count / 2);
+                    ans += 'R'.repeat(half);
+                    if (count % 2 === 1) ans += '.';
+                    ans += 'L'.repeat(half);
+                }
+                l = -1;
+            }
+            if (i < len) ans += c;
+
+            head = c;
         }
-        forces[i] += force;
     }
 
-    force = 0;
-    // Right to left
-    for (let i = n - 1; i >= 0; i--) {
-        if (dominoes[i] === 'L') {
-            force = n;
-        } else if (dominoes[i] === 'R') {
-            force = 0;
-        } else {
-            force = Math.max(force - 1, 0);
-        }
-        forces[i] -= force;
-    }
-
-    // Final output
-    let result = '';
-    for (let f of forces) {
-        if (f > 0) result += 'R';
-        else if (f < 0) result += 'L';
-        else result += '.';
-    }
-
-    return result;
+    return ans;
 };
