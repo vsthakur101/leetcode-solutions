@@ -43,6 +43,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 | ------- |
 | [0013-roman-to-integer](https://github.com/vsthakur101/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vsthakur101/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/vsthakur101/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0868-push-dominoes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0868-push-dominoes) |
 ## Greedy
 |  |
@@ -73,4 +74,8 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0868-push-dominoes) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vsthakur101/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
