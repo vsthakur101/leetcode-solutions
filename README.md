@@ -84,4 +84,12 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/vsthakur101/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vsthakur101/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vsthakur101/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
