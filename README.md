@@ -15,6 +15,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 | [0001-two-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vsthakur101/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vsthakur101/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1293-three-consecutive-odds](https://github.com/vsthakur101/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vsthakur101/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/vsthakur101/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vsthakur101/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
