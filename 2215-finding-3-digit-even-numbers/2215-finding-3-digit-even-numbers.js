@@ -2,27 +2,30 @@
  * @param {number[]} digits
  * @return {number[]}
  */
-function findEvenNumbers(digits) {
-    const result = new Set();
-    const freq = new Array(10).fill(0);
+var findEvenNumbers = function(digits) {
+  const result = [];
+  const repeats = new Array(10).fill(0);
 
-    // Count frequency of each digit
-    for (const d of digits) freq[d]++;
+  // Count each digit's frequency
+  for (const digit of digits) {
+    repeats[digit]++;
+  }
 
-    // Try all 3-digit numbers
-    for (let num = 100; num <= 999; num++) {
-        if (num % 2 !== 0) continue; // must be even
+  // Try every 3-digit even number
+  for (let i = 100; i <= 999; i += 2) {
+    const hundreds = Math.floor(i / 100);
+    const tens = Math.floor((i % 100) / 10);
+    const ones = i % 10;
 
-        const tempFreq = [...freq];
-        const a = Math.floor(num / 100);
-        const b = Math.floor((num % 100) / 10);
-        const c = num % 10;
+    const temp = [...repeats];
+    temp[hundreds]--;
+    temp[tens]--;
+    temp[ones]--;
 
-        // Try to form num with digits from array
-        if (--tempFreq[a] >= 0 && --tempFreq[b] >= 0 && --tempFreq[c] >= 0) {
-            result.add(num);
-        }
+    if (temp[hundreds] >= 0 && temp[tens] >= 0 && temp[ones] >= 0) {
+      result.push(i);
     }
+  }
 
-    return [...result].sort((a, b) => a - b);
-}
+  return result;
+};
