@@ -5,32 +5,27 @@
  */
 var lengthAfterTransformations = function (s, t) {
     const MOD = 1e9 + 7;
-    const dp = new Array(26).fill(0);
 
-    // Step 1: Count letters
+    let dp = new Array(26).fill(0);
+    let temp = new Array(26).fill(0);
+
     for (let c of s) {
         dp[c.charCodeAt(0) - 97]++;
     }
 
-    // Step 2: Perform t transformations
     for (let step = 0; step < t; step++) {
-        const next = new Array(26).fill(0);
-
+        temp.fill(0); // reuse array instead of creating new one
         for (let i = 0; i < 26; i++) {
-            if (i === 25) { // 'z'
-                next[0] = (next[0] + dp[25]) % MOD;
-                next[1] = (next[1] + dp[25]) % MOD;
+            if (i === 25) { // 'z' case
+                temp[0] = (temp[0] + dp[25]) % MOD;
+                temp[1] = (temp[1] + dp[25]) % MOD;
             } else {
-                next[i + 1] = (next[i + 1] + dp[i]) % MOD;
+                temp[i + 1] = (temp[i + 1] + dp[i]) % MOD;
             }
         }
-
-        // update for next round
-        for (let i = 0; i < 26; i++) {
-            dp[i] = next[i];
-        }
+        // swap dp and temp
+        [dp, temp] = [temp, dp];
     }
 
-    // Step 3: Sum final string length
-    return dp.reduce((a, b) => (a + b) % MOD, 0);
+    return dp.reduce((sum, count) => (sum + count) % MOD, 0);
 };
