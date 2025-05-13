@@ -9,6 +9,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 | [0009-palindrome-number](https://github.com/vsthakur101/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vsthakur101/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vsthakur101/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 | [0001-two-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vsthakur101/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vsthakur101/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 | [0014-longest-common-prefix](https://github.com/vsthakur101/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vsthakur101/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0868-push-dominoes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0868-push-dominoes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/vsthakur101/leetcode-solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0868-push-dominoes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
 | ------- |
@@ -104,4 +108,8 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/vsthakur101/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
+## Counting
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
