@@ -16,6 +16,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 | [0001-two-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vsthakur101/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vsthakur101/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vsthakur101/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/vsthakur101/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vsthakur101/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -71,6 +72,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vsthakur101/leetcode-solutions/tree/master/0075-sort-colors) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vsthakur101/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vsthakur101/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Monotonic Queue
@@ -86,6 +88,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vsthakur101/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vsthakur101/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0868-push-dominoes) |
 ## Dynamic Programming
 |  |
