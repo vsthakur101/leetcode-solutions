@@ -29,6 +29,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vsthakur101/leetcode-solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vsthakur101/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/vsthakur101/leetcode-solutions/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vsthakur101/leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vsthakur101/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3639-zero-array-transformation-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 ## String
 |  |
 | ------- |
