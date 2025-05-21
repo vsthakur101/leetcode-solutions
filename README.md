@@ -17,6 +17,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 | [0001-two-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vsthakur101/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0027-remove-element) |
+| [0073-set-matrix-zeroes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vsthakur101/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vsthakur101/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/vsthakur101/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
@@ -36,6 +37,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 | ------- |
 | [0001-two-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vsthakur101/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vsthakur101/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
@@ -126,4 +128,8 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
