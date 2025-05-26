@@ -20,6 +20,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 | [0035-search-insert-position](https://github.com/vsthakur101/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vsthakur101/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0643-maximum-average-subarray-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vsthakur101/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/vsthakur101/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vsthakur101/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -50,6 +51,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vsthakur101/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vsthakur101/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
