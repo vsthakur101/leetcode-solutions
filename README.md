@@ -1,5 +1,5 @@
 # leetcode-solutions
-A curated collection of my LeetCode solutions in Python. Includes optimized approaches, detailed explanations, and clean code — built to enhance learning and interview prep
+A curated collection of my LeetCode solutions in Javascript. Includes optimized approaches, detailed explanations, and clean code — built to enhance learning and interview prep
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
