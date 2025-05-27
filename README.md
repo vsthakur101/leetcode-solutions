@@ -66,6 +66,7 @@ A curated collection of my LeetCode solutions in Python. Includes optimized appr
 | [0014-longest-common-prefix](https://github.com/vsthakur101/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vsthakur101/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vsthakur101/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/vsthakur101/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0868-push-dominoes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
