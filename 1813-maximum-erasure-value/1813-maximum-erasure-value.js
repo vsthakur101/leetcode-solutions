@@ -3,19 +3,12 @@
  * @return {number}
  */
 var maximumUniqueSubarray = function(nums) {
-    let maxSum = 0;
-    let currSum = 0;
-    let left = 0;
-    let seen = new Set();
-    for(let right = 0; right < nums.length; right++){
-        while(seen.has(nums[right])){
-            seen.delete(nums[left]);
-            currSum -= nums[left];
-            left++;
-        }
-        seen.add(nums[right]);
-        currSum += nums[right];
-        maxSum = Math.max(currSum, maxSum);
+    let nmap = new Int8Array(10001), total = 0, best = 0
+    for (let left = 0, right = 0; right < nums.length; right++) {
+        nmap[nums[right]]++, total += nums[right]
+        while (nmap[nums[right]] > 1)
+            nmap[nums[left]]--, total -= nums[left++]
+        best = Math.max(best, total)
     }
-    return maxSum
+    return best
 };
