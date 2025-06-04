@@ -8,6 +8,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | ------- |
 | [0009-palindrome-number](https://github.com/vsthakur101/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vsthakur101/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/vsthakur101/leetcode-solutions/tree/master/0066-plus-one) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vsthakur101/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3321-type-of-triangle](https://github.com/vsthakur101/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -18,6 +19,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vsthakur101/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vsthakur101/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/vsthakur101/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vsthakur101/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0410-split-array-largest-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
