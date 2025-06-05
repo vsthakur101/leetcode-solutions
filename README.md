@@ -9,6 +9,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0009-palindrome-number](https://github.com/vsthakur101/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vsthakur101/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vsthakur101/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vsthakur101/leetcode-solutions/tree/master/0067-add-binary) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vsthakur101/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3321-type-of-triangle](https://github.com/vsthakur101/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -81,6 +82,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0020-valid-parentheses](https://github.com/vsthakur101/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vsthakur101/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/vsthakur101/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/vsthakur101/leetcode-solutions/tree/master/0067-add-binary) |
 | [0567-permutation-in-string](https://github.com/vsthakur101/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vsthakur101/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -137,6 +139,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vsthakur101/leetcode-solutions/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/vsthakur101/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 ## Linked List
 |  |
@@ -162,4 +165,8 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vsthakur101/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vsthakur101/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
