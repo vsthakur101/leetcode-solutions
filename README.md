@@ -29,6 +29,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vsthakur101/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vsthakur101/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vsthakur101/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0283-move-zeroes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vsthakur101/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -137,6 +138,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vsthakur101/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/vsthakur101/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vsthakur101/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/vsthakur101/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0868-push-dominoes) |
 ## Dynamic Programming
