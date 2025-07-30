@@ -29,6 +29,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vsthakur101/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vsthakur101/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vsthakur101/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -53,6 +54,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vsthakur101/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/vsthakur101/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vsthakur101/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/vsthakur101/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1813-maximum-erasure-value](https://github.com/vsthakur101/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
@@ -118,6 +120,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | ------- |
 | [0075-sort-colors](https://github.com/vsthakur101/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vsthakur101/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vsthakur101/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vsthakur101/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vsthakur101/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -178,6 +181,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0169-majority-element) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
 |  |
@@ -236,6 +240,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vsthakur101/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
