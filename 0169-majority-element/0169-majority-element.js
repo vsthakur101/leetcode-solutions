@@ -3,22 +3,16 @@
  * @return {number}
  */
 var majorityElement = function(nums) {
-    let count = new Map();
-    let maxChar = 0;
-    let res = 0
-    for(let i of nums){
-        if(count.has(i)){
-            count.set(i, count.get(i)+1)
-        }else{
-            count.set(i,1)
+    let count = 0, max = 0
+    for (let i = 0; i < nums.length; i++) {
+        if (count === 0) {
+            max = nums[i]
+            count = 1
+        } else if (nums[i] === max) {
+            count++
+        } else {
+            count--
         }
     }
-    for(let [k,v] of count){
-      if(v > maxChar){
-          maxChar = v;
-          res = k
-      }
-        
-    }
-    return res
+    return max;
 };
