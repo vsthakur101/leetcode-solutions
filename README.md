@@ -29,6 +29,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vsthakur101/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vsthakur101/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vsthakur101/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vsthakur101/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -150,6 +151,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0070-climbing-stairs](https://github.com/vsthakur101/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vsthakur101/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vsthakur101/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vsthakur101/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/vsthakur101/leetcode-solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0868-push-dominoes) |
