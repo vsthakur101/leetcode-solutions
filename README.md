@@ -33,6 +33,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vsthakur101/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vsthakur101/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/vsthakur101/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -85,6 +86,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vsthakur101/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vsthakur101/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3639-zero-array-transformation-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
