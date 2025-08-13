@@ -34,6 +34,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0119-pascals-triangle-ii](https://github.com/vsthakur101/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vsthakur101/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vsthakur101/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/vsthakur101/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vsthakur101/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/vsthakur101/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -211,6 +212,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vsthakur101/leetcode-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/vsthakur101/leetcode-solutions/tree/master/0136-single-number) |
 ## Memoization
 |  |
 | ------- |
