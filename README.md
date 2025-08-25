@@ -177,6 +177,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vsthakur101/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vsthakur101/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vsthakur101/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vsthakur101/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Simulation
 |  |
@@ -229,6 +230,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vsthakur101/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vsthakur101/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vsthakur101/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vsthakur101/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vsthakur101/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vsthakur101/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vsthakur101/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vsthakur101/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/vsthakur101/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
