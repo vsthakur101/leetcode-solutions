@@ -15,6 +15,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0189-rotate-array](https://github.com/vsthakur101/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vsthakur101/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vsthakur101/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/vsthakur101/leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/vsthakur101/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Array
