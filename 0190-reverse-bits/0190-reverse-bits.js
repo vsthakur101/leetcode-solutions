@@ -3,10 +3,7 @@
  * @return {number}
  */
 var reverseBits = function (n) {
-    let result = 0;
-    for (let i = 0; i < 32; i++) {
-        result = (result << 1) | (n & 1);
-        n >>>= 1;
-    }
-    return result >>> 0;
+    let bin = n.toString(2).padStart(32, "0");
+    let rev = bin.split("").reverse().join("");
+    return parseInt(rev, 2);
 };
