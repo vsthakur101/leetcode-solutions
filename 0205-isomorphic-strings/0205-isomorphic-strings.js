@@ -1,0 +1,28 @@
+/**
+ * @param {string} s
+ * @param {string} t
+ * @return {boolean}
+ */
+var isIsomorphic = function(s, t) {
+    if(s.length !== t.length) return false;
+    const mapST = new Map(); // s -> t
+    const mapTS = new Map(); // t -> s
+
+    for (let i = 0; i < s.length; i++) {
+        const cs = s[i], ct = t[i];
+
+        if (mapST.has(cs)) {
+            if (mapST.get(cs) !== ct) return false;
+        } else {
+            mapST.set(cs, ct);
+        }
+
+        if (mapTS.has(ct)) {
+            if (mapTS.get(ct) !== cs) return false;
+        } else {
+            mapTS.set(ct, cs);
+        }
+    }
+    return true;
+
+};
