@@ -41,6 +41,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0136-single-number](https://github.com/vsthakur101/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vsthakur101/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/vsthakur101/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vsthakur101/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/vsthakur101/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -73,6 +74,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0169-majority-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vsthakur101/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vsthakur101/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/vsthakur101/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vsthakur101/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/vsthakur101/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1813-maximum-erasure-value](https://github.com/vsthakur101/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
@@ -145,6 +147,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0075-sort-colors](https://github.com/vsthakur101/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vsthakur101/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vsthakur101/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vsthakur101/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vsthakur101/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vsthakur101/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
