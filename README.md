@@ -42,6 +42,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0169-majority-element](https://github.com/vsthakur101/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vsthakur101/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vsthakur101/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vsthakur101/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vsthakur101/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/vsthakur101/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -75,6 +76,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0202-happy-number](https://github.com/vsthakur101/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vsthakur101/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vsthakur101/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vsthakur101/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vsthakur101/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/vsthakur101/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1813-maximum-erasure-value](https://github.com/vsthakur101/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
@@ -93,6 +95,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vsthakur101/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/vsthakur101/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/vsthakur101/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vsthakur101/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
