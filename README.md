@@ -144,6 +144,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vsthakur101/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vsthakur101/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Sorting
 |  |
@@ -197,6 +198,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0020-valid-parentheses](https://github.com/vsthakur101/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vsthakur101/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vsthakur101/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/vsthakur101/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vsthakur101/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Simulation
 |  |
@@ -306,4 +308,8 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0182-duplicate-emails](https://github.com/vsthakur101/leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/vsthakur101/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/vsthakur101/leetcode-solutions/tree/master/0197-rising-temperature) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vsthakur101/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
