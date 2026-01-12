@@ -3,17 +3,20 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var moveZeroes = function(nums) {
-   let l = 0;
-
-    // Move all non-zero elements forward
-    for (let i = 0; i < nums.length; i++) {
-        if (nums[i] !== 0) {
-            nums[l++] = nums[i];
+    if(nums.length <= 1) return nums;
+    let slow = 0;
+    let fast = 1;
+    while(slow < fast && fast < nums.length){
+        if(nums[slow] === 0 && nums[fast] !== 0){
+            [nums[slow], nums[fast]] = [nums[fast], nums[slow]];
+            slow++;
+            fast++;
+        } else if(nums[slow] === 0 && nums[fast] === 0){
+            fast++;
+        } else {
+            slow++;
+            fast++;
         }
     }
-
-    // Fill remaining positions with zeros
-    for (let i = l; i < nums.length; i++) {
-        nums[i] = 0;
-    }
+    return nums
 };
