@@ -48,6 +48,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0283-move-zeroes](https://github.com/vsthakur101/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/vsthakur101/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vsthakur101/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/vsthakur101/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/vsthakur101/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vsthakur101/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/vsthakur101/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
