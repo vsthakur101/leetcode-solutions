@@ -216,6 +216,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0021-merge-two-sorted-lists](https://github.com/vsthakur101/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vsthakur101/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vsthakur101/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0707-design-linked-list](https://github.com/vsthakur101/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -321,4 +322,5 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vsthakur101/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0707-design-linked-list](https://github.com/vsthakur101/leetcode-solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
