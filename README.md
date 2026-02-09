@@ -53,6 +53,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vsthakur101/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/vsthakur101/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vsthakur101/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1472-design-browser-history](https://github.com/vsthakur101/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1813-maximum-erasure-value](https://github.com/vsthakur101/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2048-build-array-from-permutation](https://github.com/vsthakur101/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vsthakur101/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -204,6 +205,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0144-binary-tree-preorder-traversal](https://github.com/vsthakur101/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vsthakur101/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/vsthakur101/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [1472-design-browser-history](https://github.com/vsthakur101/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vsthakur101/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Simulation
 |  |
@@ -217,6 +219,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vsthakur101/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vsthakur101/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0707-design-linked-list](https://github.com/vsthakur101/leetcode-solutions/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/vsthakur101/leetcode-solutions/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -323,4 +326,13 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vsthakur101/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/vsthakur101/leetcode-solutions/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/vsthakur101/leetcode-solutions/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vsthakur101/leetcode-solutions/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vsthakur101/leetcode-solutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
