@@ -54,6 +54,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [1293-three-consecutive-odds](https://github.com/vsthakur101/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vsthakur101/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1472-design-browser-history](https://github.com/vsthakur101/leetcode-solutions/tree/master/1472-design-browser-history) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vsthakur101/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/vsthakur101/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2048-build-array-from-permutation](https://github.com/vsthakur101/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vsthakur101/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -150,6 +151,7 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vsthakur101/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vsthakur101/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/vsthakur101/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Sorting
 |  |
@@ -206,11 +208,13 @@ A curated collection of my LeetCode solutions in Javascript. Includes optimized 
 | [0145-binary-tree-postorder-traversal](https://github.com/vsthakur101/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/vsthakur101/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [1472-design-browser-history](https://github.com/vsthakur101/leetcode-solutions/tree/master/1472-design-browser-history) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vsthakur101/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vsthakur101/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vsthakur101/leetcode-solutions/tree/master/0067-add-binary) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vsthakur101/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2048-build-array-from-permutation](https://github.com/vsthakur101/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 ## Linked List
 |  |
